@@ -71,6 +71,7 @@ add luci-app-aliyundrive-fuse
 git clone https://github.com/messense/aliyundrive-fuse.git package/luci-app-aliyundrive-fuse
 add luci-app-vssr
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+git clone https://github.com/jerrykuku/lua-maxminddb.git
 add luci-app-alist
 git clone https://github.com/selfcan/luci-app-alist.git package/luci-app-alist
 add helloword
